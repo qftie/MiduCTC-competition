@@ -1,0 +1,9 @@
+nogit
+__pycache__
+model/*
+pretrained_model/*
+logs/*
+!.gitkeep
+utils
+history/*
+model/
